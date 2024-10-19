@@ -1,8 +1,7 @@
-# profile
+# Hi, I'm Idrees
 
-# two 
+![Github stats](https://github-readme-stats.vercel.app/api?username=devidrees)
 
-# three
 
 
 
