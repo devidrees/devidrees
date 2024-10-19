@@ -4,7 +4,7 @@
 
 ![devidrees's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devidrees&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devidrees&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devidrees&theme=vue-dark)](https://git.io/streak-stats)
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devidrees&theme=vue)](https://github.com/devidrees/github-readme-activity-graph)
 
