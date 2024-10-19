@@ -6,7 +6,7 @@
 
 
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devidrees&theme=vue)](https://github.com/devidrees/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devidrees&theme=vue)]
 
 
 - [Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph) 
