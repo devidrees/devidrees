@@ -1,6 +1,6 @@
 # Hi, I'm Idrees
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=devidrees&theme=vue-dark)
+![devidrees's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devidrees&theme=vue-dark&hide_border=true)
 
 ![devidrees's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devidrees&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
