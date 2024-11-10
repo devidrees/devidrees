@@ -65,7 +65,7 @@ Feel free to reach out to me if you’re interested in collaborating, discussing
 
 ---
 
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt
+> "Invent yourself. And then, reinvent yourself." — C Bukowski
 
 ---
 
