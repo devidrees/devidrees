@@ -10,15 +10,12 @@ Welcome to my GitHub profile! I’m passionate about coding, open-source contrib
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devidrees&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-*This streak shows the number of consecutive days I've committed to GitHub. It's a fun way to track my progress and consistency over time.*
-
 ---
 
 ### 🧑‍💻 Top Languages
 
 ![devidrees's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devidrees&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
-*These are the programming languages I've used most in my repositories. The chart gives an overview of my areas of expertise.*
 
 ---
 
@@ -34,7 +31,6 @@ Welcome to my GitHub profile! I’m passionate about coding, open-source contrib
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devidrees&theme=merko&hide_border=true)
 
-*Here you can see a visual representation of my recent GitHub activity. It shows my commits, pull requests, issues, and other interactions on GitHub over time.*
 
 ---
 
@@ -42,7 +38,6 @@ Welcome to my GitHub profile! I’m passionate about coding, open-source contrib
 
 ![Visit Count](https://visitcount.itsvg.in/api?id=devidrees&icon=0&color=0)
 
-*This badge keeps track of the number of people who visit my GitHub profile, reflecting my growing community and interactions.*
 
 ---
 
@@ -64,8 +59,11 @@ Feel free to reach out to me if you’re interested in collaborating, discussing
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Idrees-blue?logo=twitter&logoColor=white)](https://twitter.com/_midreesbhat)
 
 ---
-
-> "Invent yourself. And then, reinvent yourself." — C Bukowski
+"invent yourself and then reinvent yourself,
+change your tone and shape so often that they can
+never
+categorize you." 
+— Charles Bukowski
 
 ---
 
