@@ -60,10 +60,16 @@ Feel free to reach out to me if you’re interested in collaborating, discussing
 
 ---
 ```yml
-"invent yourself and then reinvent yourself,
-change your tone and shape so often that they can
-never
-categorize you." 
+"
+be self-taught.
+
+and reinvent your life because you must;
+it is your life and
+its history
+and the present
+belong only to
+you.
+"
 — Charles Bukowski
 ```
 
