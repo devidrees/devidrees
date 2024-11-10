@@ -59,11 +59,13 @@ Feel free to reach out to me if you’re interested in collaborating, discussing
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Idrees-blue?logo=twitter&logoColor=white)](https://twitter.com/_midreesbhat)
 
 ---
+```yml
 "invent yourself and then reinvent yourself,
 change your tone and shape so often that they can
 never
 categorize you." 
 — Charles Bukowski
+```
 
 ---
 
