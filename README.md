@@ -23,7 +23,6 @@ Tech Skills Trainer. AI/ML Trainer and Consultant. UI/UX Trainer.
 
 ![devidrees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devidrees&show_icons=true&count_private=true&theme=merko&hide_border=true)
 
-*This card displays an overview of my total GitHub activity, including the number of public and private repositories, followers, and contributions.*
 
 ---
 
