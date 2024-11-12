@@ -1,6 +1,6 @@
 # Hi, I'm Idrees
 
-Welcome to my GitHub profile! I’m passionate about coding, open-source contributions, and continuously improving my skills. Here’s a snapshot of my activity, skills, and contributions. Feel free to explore and connect with me.
+Tech Skills Trainer. AI/ML Trainer and Consultant. UI/UX Trainer.
 
 ---
 
