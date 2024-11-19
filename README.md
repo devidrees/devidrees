@@ -8,7 +8,7 @@ Tech Skills Trainer. AI/ML Trainer and Consultant. UI/UX Trainer.
 
 ### GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devidrees&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
