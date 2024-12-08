@@ -42,19 +42,6 @@
 </table>
 
 ---
-### 🧑‍💻 Top Languages
-
-![devidrees's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devidrees&theme=merko&show_icons=true&hide_border=true&layout=compact)
-
-
----
-
-### 📊 GitHub Stats Overview
-
-![devidrees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devidrees&show_icons=true&count_private=true&theme=merko&hide_border=true)
-
-
----
 
 ## 📈 GitHub Activity
 
@@ -63,7 +50,7 @@
 
 ---
 
-## 👀 Visitor Count
+## 👀 Old Visitor Count
 
 ![Visit Count](https://visitcount.itsvg.in/api?id=devidrees&icon=0&color=0)
 
