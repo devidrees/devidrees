@@ -5,9 +5,7 @@
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/midreesbhat" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&duration=2500&pause=1000&background=0A0F0B&color=AAD100&width=435&height=200&vCenter=true&Center=true&lines= 
-  Tech+Skills+Trainer; 
-  AI/ML+Consultant;   UI/UX+Trainer;   Data+Analytics+Trainer!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&duration=2500&pause=1000&background=0A0F0B&color=AAD100&width=435&height=200&vCenter=true&Center=true&lines=---Tech+Skills+Trainer;---AI/ML+Consultant;---UI/UX+Trainer;---Data+Analytics+Trainer!" alt="Typing SVG"/>
 </a>
     </td>
     <td colspan="2" align="center">
