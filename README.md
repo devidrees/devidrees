@@ -2,6 +2,32 @@
 
 Tech Skills Trainer. AI/ML Trainer and Consultant. UI/UX Trainer.
 
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/midreesbhat" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&duration=2500&pause=1000&color=111F68&width=435&lines=Tech+Skills+Trainer;AI/ML+Consultant;UI/UX+Trainer;Data+Analytics+Trainer!" alt="Typing SVG"/>
+</a>
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=DevIdrees&theme=github-compact&hide_border=true&background=FFFFFF" alt="Mohammad Idrees Bhat Longest Contribution Streak"/>
+    </td>
+  </tr>
+  <tr>
+      <td>
+        <img src="https://img.shields.io/github/followers/DevIdrees?label=Followers&style=social" alt="Mohammad Idrees Bhat GitHub Followers"/>
+        <img src="https://img.shields.io/github/stars/DevIdrees?label=Stars&style=social" alt="Mohammad Idrees Bhat GitHub Stars"/>
+        <img src="https://komarev.com/ghpvc/?username=DevIdrees&label=Visitors&color=brightgreen" alt="Mohammad Idrees Bhat GitHub Visitors Count"/>
+      </td>
+    <td>
+      <a href="https://www.linkedin.com/in/midreesbhat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-600+_Followers_10M%2B_Impressions-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111E68" alt="Mohammad Idrees Bhat LinkedIn Followers and Impressions"/>
+</a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## GitHub Stats
