@@ -22,7 +22,7 @@ Tech Skills Trainer. AI/ML Trainer and Consultant. UI/UX Trainer.
       </td>
     <td>
       <a href="https://www.linkedin.com/in/midreesbhat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-600+_Followers_10M%2B_Impressions-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111E68" alt="Mohammad Idrees Bhat LinkedIn Followers and Impressions"/>
+    <img src="https://img.shields.io/badge/LinkedIn-600+_Followers%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111E68" alt="Mohammad Idrees Bhat LinkedIn Followers and Impressions"/>
 </a>
     </td>
   </tr>
