@@ -11,7 +11,7 @@ Tech Skills Trainer. AI/ML Trainer and Consultant. UI/UX Trainer.
 </a>
     </td>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=DevIdrees&theme=github-compact&hide_border=true&background=FFFFFF" alt="Mohammad Idrees Bhat Longest Contribution Streak"/>
+      <img src="https://streak-stats.demolab.com?user=DevIdrees&theme=merko&hide_border=true" alt="Mohammad Idrees Bhat Longest Contribution Streak"/>
     </td>
   </tr>
   <tr>
