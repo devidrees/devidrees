@@ -30,13 +30,12 @@
 <table>
   <tr>
     <td>
-     ### 🧑‍💻 Top Languages
-      ![devidrees's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devidrees&theme=merko&show_icons=true&hide_border=true&layout=compact)
+    <h3>🧑‍💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidrees&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Mohammad Idrees Bhat Longest Contribution Streak"/>
     </td>
     <td>
-     ### 📊 GitHub Stats Overview
-
-    ![devidrees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devidrees&show_icons=true&count_private=true&theme=merko&hide_border=true)
+     <h3> 📊 GitHub Stats Overview </h3> 
+     <img src="https://github-readme-stats.vercel.app/api?username=devidrees&show_icons=true&count_private=true&theme=merko&hide_border=true" alt="Mohammad Idrees Bhat Longest Contribution Streak"/>
  
     </td>
   </tr>
