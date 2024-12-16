@@ -47,24 +47,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devidrees&theme=merko&hide_border=true)
 
-
----
-
-## 👀 Old Visitor Count
-
-![Visit Count](https://visitcount.itsvg.in/api?id=devidrees&icon=0&color=0)
-
-
----
-
-## 🔗 Useful Links
-
-Here are some tools that you can use to customize your GitHub profile further:
-
-- [Create your own GitHub Stats](https://gh-stats-gen.vercel.app/) – Generate dynamic stats for your GitHub profile.
-- [Create your own Profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) – Learn how to customize your GitHub README for a personalized touch.
-- [Activity Graph by Ashutosh](https://github.com/ashutosh00710/github-readme-activity-graph) – Generate and display your GitHub activity graph with customizable themes.
-
 ---
 
 ## 📬 Let's Connect!
