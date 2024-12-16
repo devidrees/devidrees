@@ -9,7 +9,7 @@
 </a>
     </td>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=DevIdrees&theme=merko&hide_border=true&exclude_days=Sat%2CSun" alt="Mohammad Idrees Bhat Longest Contribution Streak"/>
+      <img src="https://streak-stats.demolab.com?user=DevIdrees&theme=merko&hide_border=true" alt="Mohammad Idrees Bhat Longest Contribution Streak"/>
     </td>
   </tr>
   <tr>
