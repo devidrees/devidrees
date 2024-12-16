@@ -43,7 +43,9 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Contributions and Activity
+
+- [Data Analytics Course Repository](https://github.com/devidrees/AI-Data-Analytics-Bootcamp-October-Batch) - This repository contains the material for the Data Analytics and Artificial Intelligence Course
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devidrees&theme=merko&hide_border=true)
 
